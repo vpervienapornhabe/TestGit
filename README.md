@@ -1,3 +1,3 @@
 # Some text for print
-## TEAM 1
-## TEAM 2
+### TEAM 1: (Names)
+### TEAM 2: (Names)
